@@ -20,8 +20,8 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://repodata.github.io'
-baseurl: ''
+url: 'https://new-repodata.github.io'
+baseurl: 'https://new-repodata.github.io'
 title: 'RepoData'
 description: 'Archival repository locations data'
 permalink: pretty
