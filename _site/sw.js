@@ -1,8 +1,8 @@
-const version = '20200630221422';
+const version = '20200701105734';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/general/2018/08/22/hello-world/","/about/","/categories/","/blog/","/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/2019/06/14/completing-repodata-for-now/","/2018/09/12/tracking-hurricane-florence/","/general/2018/08/22/hello-world/","/2018/06/29/rbms-2018-presentation/","/2018/06/12/making-our-data-publicly-available-version-0-1/","/2018/04/27/prestc/","/2018/03/16/data-decisions/","/2018/03/07/making-archives-visible-through-maps/","/2017/12/06/archivists-seeking-data/","/2017/12/06/a-deluge-of-data-our-mid-year-update/","/about/","/categories/","/blog/","/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/blog/page2/","/blog/page3/","/feed.xml","https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 

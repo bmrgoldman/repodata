@@ -1,0 +1,45 @@
+---
+layout: post
+title: Tracking Hurricane Florence
+date: 2018-09-12 19:49:54.000000000 -04:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories: []
+tags: []
+meta:
+  timeline_notification: '1536781797'
+  _rest_api_published: '1'
+  _rest_api_client_id: "-1"
+  _publicize_job_id: '22076991400'
+author:
+  login: etansey
+  email: eiratansey@gmail.com
+  display_name: Eira Tansey
+  first_name: ''
+  last_name: ''
+permalink: "/2018/09/12/tracking-hurricane-florence/"
+---
+<p>We're at the height of hurricane season, and many people are rightfully concerned about the forecast associated with Hurricane Florence.</p>
+<p>While we are still making our way through the data for the remaining states, fortunately we have data available for the current "cone of uncertainty" - Georgia, South Carolina, North Carolina and Virginia.</p>
+<p>I <a href="https://arcg.is/uOizr">made this map</a> that shows the archives in the potential path of Hurricane Florence (at least as of Wednesday afternoon)</p>
+<p>I pulled this data into ArcGIS online, and added three layers of information from the National Oceanic and Atmospheric Administration's information service. NOAA's NowCoast system provides real time updates, so if you go back and visit this map periodically during the hurricane the NOAA layers will look different each time. You can also toggle the layers on and off.</p>
+<p>The three NOAA layers are (screenshots are for illustrative purposes only, because the layers are "live" they will look different depending on when you load the map):</p>
+<ul>
+<li>Hurricane Forecast Track (<a href="https://nowcoast.noaa.gov/arcgis/rest/services/nowcoast/wwa_meteocean_tropicalcyclones_trackintensityfcsts_time/MapServer">explanation here</a>). This layer updates every 10 minutes and tells you the present location of the hurricane, it's forecasted track, and estimated wind speeds.</li>
+</ul>
+<p><img class="alignnone size-full wp-image-226" src="{{ site.baseurl }}/assets/florence-map-1.jpg" alt="Florence-map-1" width="1391" height="655" /></p>
+<ul>
+<li>Potential Storm Surge Flooding map (<a href="https://nowcoast.noaa.gov/arcgis/rest/services/nowcoast/wwa_meteocean_tropicalcyclones_inundation/MapServer">explanation here</a>). The update times on this <a href="https://nowcoast.noaa.gov/help/#!section=updateschedule">vary</a>, but once a hurricane event is underway it is several times a day. According to NOAA, this layer "depicts the geographical areas where inundation from storm surge could occur along with the heights, above ground, that water could reach in those areas. These potential heights are represented with different colors based on water level: 1) Greater than 1 foot above ground (blue), 2) Greater than 3 feet above ground (yellow), 3) Greater than 6 feet above ground (orange), and 4) Greater than 9 feet above ground (red). Two versions of this graphic are provided in this map--one with a mask (depicted in gray) identifying Intertidal Zone/Estuarine Wetland areas, and another version without the mask where Intertidal Zone/Estuarine Wetland areas are symbolized with the same colors as other areas." You have to zoom in closer than the other layers to see this one display. This is Wilmington, North Carolina.</li>
+</ul>
+<p><img class="alignnone size-full wp-image-228" src="{{ site.baseurl }}/assets/florence-map-2.jpg" alt="Florence-map-2" width="1436" height="654" /></p>
+<p>&nbsp;</p>
+<ul>
+<li>Long Duration Hazardous Weather (<a href="https://nowcoast.noaa.gov/arcgis/rest/services/nowcoast/wwa_meteoceanhydro_longduration_hazards_time/MapServer">explanation here</a>). This layer updates every 5 minutes and is the layer that tells you if a certain area (typically county-level) is under a warning, watch, or other weather advisory.</li>
+</ul>
+<p><img class="alignnone size-full wp-image-227" src="{{ site.baseurl }}/assets/florence-map-3.jpg" alt="Florence-map-3" width="1430" height="654" /></p>
+<p>The sources for the current set of archival repository locations in VA, NC, SC, and GA were the Federation of North Carolina Historical Societies, North Carolina Digital Heritage Center, Society of North Carolina Archivists, North Carolina Historical Records Advisory Board, Mid-Atlantic Regional Archives Conference, Georgia Historical Records Advisory Council, Society of Georgia Archivists, Virginia Association of Museums, Library of Virginia, Pennsylvania Historical and Museum Commission, SAA@CUA, Historical Society of Washington, D.C., Charleston Archives, Libraries and Museum Council, and OCLC ArchiveGrid. While these sources represent a wide geographic area within these states, they unfortunately leave some gaps across much of South Carolina outside of Charleston. We have additional data for South Carolina we are currently working through as we can, but unfortunately it is somewhat messy and time-consuming to process.</p>
+<p>These maps should be used for informational purposes only and not emergency planning. We do hope our comrades in the profession find them useful. If you have any questions or suggestions, please contact me (Eira Tansey) <a href="mailto:eira.tansey@uc.edu">via email</a>.</p>
+<p>&nbsp;</p>
