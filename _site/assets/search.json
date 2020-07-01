@@ -1,0 +1,47 @@
+
+
+[
+  
+  
+    
+    
+      {
+        "title": "Hello World",
+        "excerpt": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
+        "content": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
+        "url": "/general/2018/08/22/hello-world/"
+      },
+    
+  
+  
+  
+  {
+    "title": "About this website",
+    "excerpt": "\n",
+    "content": "I’m not sure yet what this website is about, but I’m sure I’ll work it out soon.\n",
+    "url": "/about/"
+  },
+  
+  {
+    "title": "Categories",
+    "excerpt": "Category index\n",
+    "content": "\n",
+    "url": "/categories/"
+  },
+  
+  {
+    "title": "Blog",
+    "excerpt": "\n",
+    "content": "\n",
+    "url": "/blog/"
+  },
+  
+  {
+    "title": "RepoData",
+    "excerpt": "\n",
+    "content": "About\n\nRepoData is a project to find, aggregate, and standardize a comprehensive data set of US archival repository locations.\n\nContact Information\n\n\n  Ben Goldman, Penn State University, bmg17@psu.edu\n  Eira Tansey, University of Cincinnati, eira.tansey@uc.edu\n\n\nAccess/Use\n\nThis data is licensed under ODbL 1.0 license (Open Data Commons Open Database License: https://opendatacommons.org/licenses/odbl/summary/). We ask that any re-use of this data acknowledge both RepoData and the original source of individual data points.\n\nAll code (located in the bin directory) is released under an MIT License.\n",
+    "url": "/"
+  }
+  
+]
+
