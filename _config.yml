@@ -24,6 +24,8 @@ url: 'https://new-repodata.github.io'
 baseurl: 'https://new-repodata.github.io'
 title: 'RepoData'
 description: 'Archival repository locations data'
+repo: "https://github.com/bmrgoldman/new-repodata.github.io"
+email: "bmrgoldman@gmail.com"
 permalink: pretty
 logo: ""
 
