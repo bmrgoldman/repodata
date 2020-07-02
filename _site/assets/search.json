@@ -100,10 +100,24 @@
   },
   
   {
+    "title": "Acknowledgements",
+    "excerpt": "\n",
+    "content": "Acknowledgments\n\nFunding\n\nThis project was supported by a Society of American Archivists Foundation grant awarded in 2017. Data processing was completed on March 1, 2019.\n\nFriends\n\nWe are greatly indebted to Hillel Arnold and Ed Summers for their continued advisement on data maintenance and contributions to this repository.\n\nData Sources\n\nWe would also like to thank the following organizations that shared data with us:\n\n\n  Archivists for Congregations of Women Religious\n  National Association of Government Archivists and Records Administrators\n  NARA\n  Business Archives Section\n  National Library of Medicine\n  National Park Service\n  John Slate and Dave Evans survey of Local Government Repositories\n  UT iSchool\n  ASHRAB\n  Northwest Archivists, Inc., Directory\n  Society of Alabama Archivists\n  Alabama Department of Archives and History\n  Arkansas State Archives\n  Arizona Archivists Alliance (AZAA) (President)\n  Society of Southwest Archivists\n  Society of Rocky Mountain Archivists\n  Online Archive of California\n  LA As Subject\n  County Recorders’ Association of California\n  California State Archives\n  Los Angeles Archivists Collective\n  Society of California Archivists\n  CHRAB\n  CT SHRAB\n  New England Archivists\n  New England Archivists of Religious Institutions\n  District of Columbia Caucus of MARAC\n  District of Columbia Office of Public Records\n  SAA@CUA\n  Archivists of Metro D.C.\n  Historical Society of Washington, D.C.\n  WorldBank Archives\n  Delaware Public Archives\n  Society of Florida Archivists\n  University of Central Florida\n  Florida HRAB\n  Georgia Historical Records Advisory Council.\n  Society of Georgia Archivists\n  Association of Hawai’i Archivists\n  HI SHRAB\n  State Historical Society of Iowa\n  Consortium of Iowa Archivists\n  Idaho State Archives\n  Chicago Area Religious Archives\n  Illinois SHRAB\n  Chicago Area Archivists\n  Chicago Area Medical Archivists\n  Midwest Archives Conference\n  Indiana Historical Society\n  Society of Indiana Archivists\n  Indiana State Library\n  Kansas Historical Society\n  Kentucky Council on Archives\n  Louisiana Archives and Manuscripts Association\n  Greater New Orleans Archives Directory\n  Lousiana HRAB\n  Massachusetts Board of Library Commissioners\n  Massachusetts SHRAB\n  University of Massachusetts\n  New England Association of City and Town Clerks\n  Maryland State Archives\n  Maine Archives and Museums\n  Metro Detroit Archivists League\n  MSHRAB\n  Michigan Museums Association\n  Historical Society of Michigan\n  Michigan Archival Association\n  Minnesota Digital Library\n  Minnesota SHRAB (Minnesota Historical Society)\n  Twin Cities Archives Round Table\n  Association of St. Louis Area Archivists\n  Kansas City Area Archivists\n  MHRAB\n  Saint Louis Area Religious Archivists\n  State Historical Society of Missouri\n  Society of Mississippi Archivists\n  Mississippi HRAB\n  Montana Memory Project\n  Montana Library Association\n  Montana SHRAB\n  Museums Association of Montana\n  Federation of North Carolina Historical Societies\n  North Carolina Digital Heritage Center\n  North Carolina SHRAB\n  Society of North Carolina Archivists\n  North Dakota SHRAB\n  Nebraska State Historical Society (Listed as Nebraska SHRAB on CoSA)\n  New Hampshire Historical Society\n  New Hampshire Archives Group\n  New Hampshire SHRAB\n  New Jersey SHRAB\n  New Mexico HRAB\n  Nevada SHRAB\n  Archivists Round Table of Metropolitan New York, Inc. (A.R.T.) (President)\n  Capital Area Archivists of New York (CAA)\n  New York Archives Conference\n  Documentary Heritage and Preservation Services for New York\n  ReCAP\n  Mid-Atlantic Regional Archives Conference\n  Cleveland Archival Roundtable\n  Ohio Local History Alliance\n  Cincinnati Area Archives Roundtable\n  Society of Ohio Archivists\n  Miami Valley Archivists Roundtable\n  OHRAB\n  Tri-State Catholic Archivists\n  Oklahoma Historical Society\n  Central Oklahoma Archivists League\n  Oregon SHRAB\n  Hidden Collections Initiative for Pennsylvania Small Archival Repositories (maintained by the Historical Society of Pennsylvania)\n  Pennsylvania Historical and Museum Commission\n  Pennsylvania Historical and Museum Commission\n  Pennsylvania Historical and Museum Commission\n  Heinz History Center\n  Philadelphia Area Consortium of Special Collections Libraries (PACSCL)\n  Three Rivers Archivists\n  Delaware Valley Archivists Group\n  RIHRAB\n  South Carolina Department of Archives and History\n  South Carolina Archival Association\n  Charleston Archives, Libraries and Museum Council\n  South Dakota SHRAB\n  Tennessee State Library and Archives\n  Society of Tennessee Archivists\n  Texas HRAB\n  San Antonio Regional Archivists\n  Archivists of the Houston Area\n  Archivists of Central Texas\n  Utah SHRAB / Utah State Archives and Records Service\n  Conference of Inter-Mountain Archivists\n  Library of Virginia (Virginia SHRAB)\n  Virginia Association of Museums\n  Vermont SHRAB\n  Washington SHRAB\n  Seattle Area Archivists\n  Southeastern Wisconsin Archives Group\n  Wisconsin SHRAB\n  West Virginia Archives and History\n  Wyoming State Archives\n\n\n",
+    "url": "https://new-repodata.github.io/acknowledgements/"
+  },
+  
+  {
     "title": "Categories",
     "excerpt": "Category index\n",
     "content": "\n",
     "url": "https://new-repodata.github.io/categories/"
+  },
+  
+  {
+    "title": "Data Dictionary",
+    "excerpt": "\n",
+    "content": "Data Dictionary\n",
+    "url": "https://new-repodata.github.io/dictionary/"
   },
   
   {
@@ -118,6 +132,13 @@
     "excerpt": "\n",
     "content": "About\n\nRepoData is a project to find, aggregate, and standardize a comprehensive data set of US archival repository locations.\n\nContact Information\n\n\n  Ben Goldman, Penn State University, bmg17@psu.edu\n  Eira Tansey, University of Cincinnati, eira.tansey@uc.edu\n\n\nAccess/Use\n\nThis data is licensed under ODbL 1.0 license (Open Data Commons Open Database License: https://opendatacommons.org/licenses/odbl/summary/). We ask that any re-use of this data acknowledge both RepoData and the original source of individual data points.\n\nAll code (located in the bin directory) is released under an MIT License.\n",
     "url": "https://new-repodata.github.io/"
+  },
+  
+  {
+    "title": "Data Maintenance",
+    "excerpt": "\n",
+    "content": "Data Maintenance\n",
+    "url": "https://new-repodata.github.io/maintenance/"
   }
   
 ]
