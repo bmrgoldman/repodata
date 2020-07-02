@@ -1,6 +1,11 @@
 ---
 layout: page
-title: About this website
+title: About
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+RepoData is a project to find, aggregate, and standardize a comprehensive data set of US archival repository locations. 
+
+We are:
+
+* Ben Goldman, Penn State University, bmg17@psu.edu
+* Eira Tansey, University of Cincinnati, eira.tansey@uc.edu

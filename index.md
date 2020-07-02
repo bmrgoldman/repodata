@@ -1,19 +1,20 @@
 ---
 title: RepoData
 layout: page
-feature_image: "https://picsum.photos/1300/400?image=989"
-feature_text: |
-  ## RepoData
----
+feature_image:
+feature_text:
 
-## About
+---
 
 RepoData is a project to find, aggregate, and standardize a comprehensive data set of US archival repository locations. 
 
-## Contact Information
+Download the complete dataset here. -Link to Excel file-
 
-* Ben Goldman, Penn State University, bmg17@psu.edu
-* Eira Tansey, University of Cincinnati, eira.tansey@uc.edu
+Explore the data here. -Link to Map-
+
+Want to update the data? Join our Github project.
+
+Not comfortable using Github? Submit a ticket here. 
 
 ## Access/Use
 
