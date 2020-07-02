@@ -93,9 +93,9 @@
   
   
   {
-    "title": "About this website",
+    "title": "About",
     "excerpt": "\n",
-    "content": "I’m not sure yet what this website is about, but I’m sure I’ll work it out soon.\n",
+    "content": "RepoData is a project to find, aggregate, and standardize a comprehensive data set of US archival repository locations.\n\nWe are:\n\n\n  Ben Goldman, Penn State University, bmg17@psu.edu\n  Eira Tansey, University of Cincinnati, eira.tansey@uc.edu\n\n",
     "url": "/about/"
   },
   
@@ -116,7 +116,7 @@
   {
     "title": "Data Dictionary",
     "excerpt": "\n",
-    "content": "Data Dictionary\n",
+    "content": "For each row of data, we have recorded the following information. We consider the bolded fields to be required.\n\n\n  Id\n  Repository Name\n  Parent Institution Name\n  Authorized Name\n  Authorized Name Source\n  Repository Identifier\n  Repository Identifier Source\n  Repository Type\n  Location Type (e.g. Mailing Address, Street Address)\n  Street Address 1\n  Street Address 2\n  City\n  State/Province\n  Zip Code\n  Country\n  Longitude\n  Latitude\n  Data Source\n  Date of Entry\n  Name of Person Recording the Entry\n\n\nAdditional background on the data can be found in the project blog. See blog entries: Data Decisions and What is an Archive?\n",
     "url": "/dictionary/"
   },
   
@@ -130,14 +130,14 @@
   {
     "title": "RepoData",
     "excerpt": "\n",
-    "content": "About\n\nRepoData is a project to find, aggregate, and standardize a comprehensive data set of US archival repository locations.\n\nContact Information\n\n\n  Ben Goldman, Penn State University, bmg17@psu.edu\n  Eira Tansey, University of Cincinnati, eira.tansey@uc.edu\n\n\nAccess/Use\n\nThis data is licensed under ODbL 1.0 license (Open Data Commons Open Database License: https://opendatacommons.org/licenses/odbl/summary/). We ask that any re-use of this data acknowledge both RepoData and the original source of individual data points.\n\nAll code (located in the bin directory) is released under an MIT License.\n",
+    "content": "RepoData is a project to find, aggregate, and standardize a comprehensive data set of US archival repository locations.\n\nDownload the complete dataset here. -Link to Excel file-\n\nExplore the data here. -Link to Map-\n\nWant to update the data? Join our Github project.\n\nNot comfortable using Github? Submit a ticket here.\n\nAccess/Use\n\nThis data is licensed under ODbL 1.0 license (Open Data Commons Open Database License: https://opendatacommons.org/licenses/odbl/summary/). We ask that any re-use of this data acknowledge both RepoData and the original source of individual data points.\n\nAll code (located in the bin directory) is released under an MIT License.\n",
     "url": "/"
   },
   
   {
     "title": "Data Maintenance",
     "excerpt": "\n",
-    "content": "Data Maintenance\n",
+    "content": "What is the RepoData Project?\n\nRepoData is short for “Repository Data” and refers to a project initiated by Ben Goldman, Penn State University, and Eira Tansey, University of Cincinnati, to locate, format and publish repository locations data for U.S.-based American archival repositories of primary source documents.\n\nAdditional information about the RepoData project can be found in our Open Science Foundation repository, as well as our project blog. Our last release of this data contained information for over 18,000 repositories, and has been made openly available via a Github repository.\n\nWhy should you care for and about RepoData?\n\nThis project began as an attempt to answer a seemingly simple question: Where can we find a comprehensive list of archival repositories in the United States? Our goal was to examine and better understand the vulnerabilities of American archives locations to the future impacts of climate change. While the archives profession does not maintain a comprehensive list of organizations and locations, we found that smaller aggregations of this data existed in disparate formats across numerous local, regional, and national groups, and so decided to pull it together.\n\nThis data has many potential utilities beyond understanding climate vulnerabilities. It can, for example, be used by researchers to identify and locate an archival repository. It can be utilized by professional archival associations to support an understanding of our professional community. It can be combined with other data sources in useful ways.\n\nTo continue having utility, this data must be maintained – improved, edited, expanded, iterated upon – and such maintenance requires a commitment of resources. It is our belief that this data serves the interests of the Society of American Archivists, “North America’s oldest and largest national professional association dedicated to the needs and interests of archives and archivists” and its members, and would be most sustainable and useful to the profession if maintained by them. Following is an overview of the data, suggested processes for maintaining it, and estimates for the labor required.\n\nWhat is being maintained?\n\nThe complete dataset is accessible as a single CSV file (data.csv), which is considered the canonical dataset. We have also made the data available as a json file (data.json).\n\nEach row of data in the CSV file represents a different repository address entry. In many instances, we gathered both street and mailing addresses for the same repository, and in such cases these were recorded in separate rows. Thus, while we recorded over 25,000 location entries in the dataset, we only identified ~18,000 unique repositories.\n\nA data dictionary is available HERE.\n\n…..\n",
     "url": "/maintenance/"
   },
   
