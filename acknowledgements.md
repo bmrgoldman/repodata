@@ -2,16 +2,13 @@
 layout: page
 title: Acknowledgements
 ---
-
-# Acknowledgments
-
 ## Funding
 
 This project was supported by a Society of American Archivists Foundation grant awarded in 2017. Data processing was completed on March 1, 2019.
 
 ## Friends
 
-We are greatly indebted to Hillel Arnold and Ed Summers for their continued advisement on data maintenance and contributions to this repository.
+We are greatly indebted to Hillel Arnold and Ed Summers for their continued advisement on data maintenance and contributions to our Github repository.
 
 ## Data Sources
 

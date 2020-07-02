@@ -2,8 +2,5 @@
 layout: page
 title: About
 ---
-FUCK
-RepoData is a project to find, aggregate, and standardize a comprehensive data set of US archival repository locations. 
-We are:
-* Ben Goldman, Penn State University, bmg17@psu.edu
-* Eira Tansey, University of Cincinnati, eira.tansey@uc.edu
+
+RepoData is a project to find, aggregate, and standardize a comprehensive data set of U.S. archival repository locations. The project was began in 2017 by Eira Tansey, Digital Archivist/Records Manager at the University of Cincinnati, and Ben Goldman, Archivist for Curatorial Services and Strategy at Penn State University.
