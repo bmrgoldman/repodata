@@ -1,8 +1,8 @@
-const version = '20200701221800';
+const version = '20200701222128';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/2019/06/14/completing-repodata-for-now/","/2018/09/12/tracking-hurricane-florence/","/2018/06/29/rbms-2018-presentation/","/2018/06/12/making-our-data-publicly-available-version-0-1/","/2018/04/27/prestc/","/2018/03/16/data-decisions/","/2018/03/07/making-archives-visible-through-maps/","/2017/12/06/archivists-seeking-data/","/2017/12/06/a-deluge-of-data-our-mid-year-update/","/2017/11/27/what-is-an-archive/","/about/","/acknowledgements/","/categories/","/dictionary/","/blog/","/","/maintenance/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/2019/06/14/completing-repodata-for-now/","/2018/09/12/tracking-hurricane-florence/","/2018/06/29/rbms-2018-presentation/","/2018/06/12/making-our-data-publicly-available-version-0-1/","/2018/04/27/prestc/","/2018/03/16/data-decisions/","/2018/03/07/making-archives-visible-through-maps/","/2017/12/06/archivists-seeking-data/","/2017/12/06/a-deluge-of-data-our-mid-year-update/","/2017/11/27/what-is-an-archive/","/about/","/acknowledgements/","/categories/","/dictionary/","/blog/","/","/maintenance/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/blog/page2/","/blog/page3/","/feed.xml","", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
