@@ -21,16 +21,15 @@ plugins:
 
 # Site settings
 url: 'https://new-repodata.github.io'
-baseurl: 'https://new-repodata.github.io'
+baseurl: 
 title: 'RepoData'
 description: 'Archival repository locations data'
-repo: "https://github.com/bmrgoldman/new-repodata.github.io"
 email: "bmrgoldman@gmail.com"
 permalink: pretty
 logo: ""
 
 # Pagination
-paginate: 50
+paginate: 5
 paginate_path: blog/page:num
 
 # Header nav
